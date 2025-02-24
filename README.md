@@ -1,5 +1,7 @@
 # ECE65 Components and Circuits Laboratory Lab Reports 
 ## Hi! My name is Zyanya Rios! This is a collection of lab reports worked on with my teammate and I. 
+
+
 <br>
 Week 1:
 <br>
