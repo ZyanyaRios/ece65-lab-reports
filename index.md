@@ -1,5 +1,7 @@
 # ECE65 Components and Circuits Laboratory Lab Reports 
-## Hi! My name is Zyanya Rios! This is a collection of lab reports completed with my teammate and I. Labs include us testing, constructing, and designing circuits with componenets such as: potentiometers, transitors, MOSFETS, resistors, capacitors, LEDS, and buzzers.
+## Hi! My name is Zyanya Rios!
+
+This is a collection of lab reports completed with my teammate and I. Labs include us testing, constructing, and designing circuits with componenets such as: potentiometers, transitors, MOSFETS, resistors, capacitors, LEDS, and buzzers.
 
 
 <br>Week 1:<br>
